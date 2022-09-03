@@ -1,6 +1,6 @@
 # Twitchcord
 
-Here you will find an open source and non hosted discord bot. You will need to host on your own server.
+Here you will find an open source and non hosted discord bot that will mirror your twitch and discord chat. You will need to host on your own server.
 
 
 ## Installation
@@ -12,6 +12,7 @@ Once cloned, open a CLI, go to the twitchcord folder, then install the node modu
 
 Copy the .env.dist file and rename it to `.env`.
 Open your freshly .env file and set all environment variable:
+
 `DISCORD_TOKEN`: 
 Thats your discord bot token. 
 You will need to create an application on the [discord developer portal](https://discord.com/developers/applications). Once created, go to the "bot" section then copy your token and past it inside the .env file.
