@@ -1,0 +1,16 @@
+{
+  "name": "twitchcord",
+  "version": "1.0.0",
+  "description": "A discord bot who mirror your twitch tchat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masa",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "tmi.js": "^1.8.5"
+  }
+}
