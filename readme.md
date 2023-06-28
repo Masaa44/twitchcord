@@ -1,6 +1,6 @@
 # Twitchcord
 
-Twitchcord is an open source cross-platform twitch and discord tchat. You need to host the bot yourself by following the installation guide below.
+Twitchcord is an open source cross-platform tchat for twitch and discord. You need to host the bot yourself by following the installation guide below.
 
 
 ## Installation
