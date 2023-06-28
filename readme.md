@@ -1,6 +1,6 @@
 # Twitchcord
 
-Here you will find an open source and non hosted discord bot that will mirror your twitch and discord chat. You will need to host on your own server.
+Twitchcord is an open source cross-platform twitch and discord tchat. You need to host the bot yourself by following the installation guide below.
 
 
 ## Installation
